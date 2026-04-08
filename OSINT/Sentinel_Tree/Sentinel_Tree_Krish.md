@@ -33,3 +33,6 @@ I looked at the imagery across the road from Green Lantern Pizza between October
 ![fraser sinkhole 3](./fraser_sinkhole_3.png)
 The riddle asked to find the "crimson sentinel's trunk". A "crimson sentinel" refers to a specific type of tree called a **Crimson Sentry Maple**, which has striking red leaves during the autumn/winter harvest season.
 ![crimson sentry](./crimson_sentry.png)
+
+
+**Author:krishbarwar07-lang**

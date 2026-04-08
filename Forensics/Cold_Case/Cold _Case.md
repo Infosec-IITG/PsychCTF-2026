@@ -13,3 +13,6 @@ The XOR of the two images combined their pixel data to reveal the following imag
 ![Combined Image](./image_obtained_by_XOR.png)
 
 The final flag obtained was `psych{41ph4_ch4nn3l_d1d_th3_th1ng}`.
+
+
+**Author:krishbarwar07-lang**

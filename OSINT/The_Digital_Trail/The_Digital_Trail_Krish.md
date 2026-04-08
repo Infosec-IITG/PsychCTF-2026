@@ -37,3 +37,5 @@ With the leaves gone, there is a perfectly clear, unobstructed view of the groun
 Reflecting on why I couldn't find the exact flag during the event, I noted a few key areas for improvement:
 * **Pacing the Search:** Instead of patiently following her entire path on the map, I started searching broadly for parks and playgrounds in the region. Because the park in the image was not named, I missed it using this unstructured approach.
 * **Utilizing Environmental Clues:** Even if the park was unnamed, I should have paid attention to the season. Since it was clearly autumn in the photo, I should have tried changing the timeline in Google Earth, as this specific park is covered by tree canopies in other seasons.
+
+**Author:krishbarwar07-lang**
